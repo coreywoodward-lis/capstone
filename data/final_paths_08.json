@@ -1,0 +1,590 @@
+[
+    {
+        "qid": "8bfbe1756b616ad7099ca99454a9d1a5",
+        "ctx": "i have no choice",
+        "relation": "Synchronous",
+        "choices": [
+            "she admit she crime",
+            "i be a robot with will",
+            "adt call",
+            "she call you"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "b2b588e8d3d0884e04643c5a20d7a6ae",
+        "ctx": "you do not have to do anything",
+        "relation": "Condition",
+        "choices": [
+            "i would take he at word",
+            "you be on the shitter",
+            "you have already flair",
+            "you do not want"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "c8338c5b16d8c3ba06f26d4650e25587",
+        "ctx": "it give i a headache",
+        "relation": "Contrast",
+        "choices": [
+            "i be think",
+            "i be walk",
+            "they be the host",
+            "it seem"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "ad54954fbbaef3ac0f4da1a5abd32bdf",
+        "ctx": "i will see you",
+        "relation": "Precedence",
+        "choices": [
+            "i will see you",
+            "you go",
+            "i leave",
+            "i go"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "915c45e6f0585c557567cb9761bd0e3f",
+        "ctx": "she get mad",
+        "relation": "Succession",
+        "choices": [
+            "she immediately get",
+            "we leave the club",
+            "we stand up for ourselves",
+            "she want"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "3e816e2ab9493139aeb9656da1df0570",
+        "ctx": "i would do it myself",
+        "relation": "Result",
+        "choices": [
+            "i do not have access",
+            "you kill you father",
+            "i figure",
+            "i assume"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "86d263aaefb536a2fa922e762104214a",
+        "ctx": "i will call you",
+        "relation": "Precedence",
+        "choices": [
+            "i will explain everything",
+            "i will call you",
+            "i leave",
+            "i take care of it"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "b3eddb49e6080ce73404bb13c5d9e8ad",
+        "ctx": "it seem weird",
+        "relation": "Succession",
+        "choices": [
+            "i wait",
+            "it be vegan",
+            "i eat about cup",
+            "it do not taste good"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "d0d5bd847be27b140db87dadca768f36",
+        "ctx": "i know better",
+        "relation": "Result",
+        "choices": [
+            "you be ban",
+            "you tell he",
+            "i have make up my mind",
+            "i do not"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "e3e38a4408501d050287c4a3bf18f7d8",
+        "ctx": "i could give it no star",
+        "relation": "Condition",
+        "choices": [
+            "i be not allergic",
+            "mistake be",
+            "i would !!!",
+            "they mess it up again"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "737a699a58834461f97957108aa05134",
+        "ctx": "we have have to remove you post",
+        "relation": "Reason",
+        "choices": [
+            "it be not directly related to lovecraft",
+            "it do not follow rule 6",
+            "it do not follow rule",
+            "it do not follow rule"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "0ac284ae8a594f50f4a2265b773582fa",
+        "ctx": "you be do eating",
+        "relation": "Contrast",
+        "choices": [
+            "it be that good",
+            "i be wish",
+            "it take long",
+            "i have not eat"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "1f0ed6982baa5d03bca870c64ad515da",
+        "ctx": "i give it a shot",
+        "relation": "Precedence",
+        "choices": [
+            "i know",
+            "i grow up",
+            "there be this thing call",
+            "i end up finish it"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "a366673e6448a8f8684ae101d32cdf0e",
+        "ctx": "i give you the chance",
+        "relation": "Contrast",
+        "choices": [
+            "you have elect a way of pain",
+            "you con we",
+            "you have elect a way",
+            "you have elect the way of pain"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "6d6a439a867c4454cb6a48ba680221b6",
+        "ctx": "i will tell you",
+        "relation": "Precedence",
+        "choices": [
+            "you can be well",
+            "the rescue team get here",
+            "you ask",
+            "i will tell you"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "d156d28623420ab7483ff2326ec4c27a",
+        "ctx": "you get mad",
+        "relation": "Result",
+        "choices": [
+            "that be",
+            "what do",
+            "you follow he night",
+            "lan do"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "158ae08ac0e20c3ee2557f452439cc6e",
+        "ctx": "you know he",
+        "relation": "Precedence",
+        "choices": [
+            "the baroness declare",
+            "i will see catalina",
+            "you come here",
+            "you know he"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "4cfcf842cf1f273bd14e9a0a0a6d4035",
+        "ctx": "you get sick",
+        "relation": "Reason",
+        "choices": [
+            "it make",
+            "it take a few day for body",
+            "you scratch you skin off",
+            "you can not work"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "e5d91f3ddf4a26cb12eb82ee87d6308a",
+        "ctx": "what be you do here",
+        "relation": "Precedence",
+        "choices": [
+            "he be to take hunting",
+            "my mom be come by place",
+            "you take day to pack for trip",
+            "what be you do here"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "347604f9ae43e7435fd3576064bb2da8",
+        "ctx": "you have to tell they",
+        "relation": "Result",
+        "choices": [
+            "they know",
+            "they can hear you",
+            "they can cross over",
+            "they can afford you"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "0acf8a606c4e665f0ce7d5cdddf04632",
+        "ctx": "gamerankings give it a score of %",
+        "relation": "Synchronous",
+        "choices": [
+            "metacritic give it 86 100",
+            "metacritic give it a score of 100",
+            "metacritic give it 67 100",
+            "metacritic give it of 100"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "6d553a6c9b658645bf82f0665e9ef7b0",
+        "ctx": "i give you the signal",
+        "relation": "Precedence",
+        "choices": [
+            "i hear another step",
+            "you attack",
+            "i have time",
+            "i hide away"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "a8195143e99e56cdefbeccdd5ff48b85",
+        "ctx": "i owe he nothing",
+        "relation": "Condition",
+        "choices": [
+            "he leave",
+            "i leave he without farewell",
+            "it come",
+            "he have"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "53029c5bf8f07e1a3e4703d95e0199d9",
+        "ctx": "it get even worse",
+        "relation": "Succession",
+        "choices": [
+            "you be",
+            "the game start",
+            "i tell they",
+            "i convert to catholicism"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "9e3453538efc02fd15d292fddab69cbd",
+        "ctx": "i be not gon na do it",
+        "relation": "Reason",
+        "choices": [
+            "it be just",
+            "what people do",
+            "it be illegal",
+            "it will hurt"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "217620aa944b7772bd4a027687cfdb9f",
+        "ctx": "what i be gon na do",
+        "relation": "Result",
+        "choices": [
+            "you make the gesture",
+            "i will let",
+            "i can hold the cervix still",
+            "be you gon na do this"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "dd4938169486d32c76d8abaff4abcf27",
+        "ctx": "it give you something",
+        "relation": "Contrast",
+        "choices": [
+            "i have fun regardless",
+            "it get you anywhere",
+            "you listen to uzi",
+            "it do not get you anywhere"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "ba547bea31581a49774acfcaeaa5220d",
+        "ctx": "she give i she number",
+        "relation": "Synchronous",
+        "choices": [
+            "we be in mexico",
+            "i give it to manager",
+            "i be at work",
+            "she leave"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "621bb6ab49502953efc4f8b187ecc464",
+        "ctx": "i will tell he the truth",
+        "relation": "Synchronous",
+        "choices": [
+            "he be older",
+            "the king return from he hunt",
+            "he can handle it better",
+            "the time come"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "b68c148e7a6b667cd57d18172cc7e9bb",
+        "ctx": "you want to kill i",
+        "relation": "Result",
+        "choices": [
+            "we go free",
+            "you can keep",
+            "you know",
+            "they be human"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "a2b3e83c4a42a17cee1ef6cd10b210eb",
+        "ctx": "you feel welcome",
+        "relation": "Result",
+        "choices": [
+            "she ask you",
+            "she greet you",
+            "time you come",
+            "i do not mind"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "27cbfc9c7f67ec09cfe50eb9749aed8e",
+        "ctx": "it feel so good",
+        "relation": "Precedence",
+        "choices": [
+            "it be get you",
+            "it be on its last leg",
+            "i realize",
+            "you wife be"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "1cb3884d0bfdd2c12bdae69b69eb7b55",
+        "ctx": "you can receive a refund of money",
+        "relation": "Condition",
+        "choices": [
+            "any you pay for ebook",
+            "you do not",
+            "any you pay for etext",
+            "any you pay for it"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "c535774adbf48589775263f1ee4b966c",
+        "ctx": "he be come a long way",
+        "relation": "Contrast",
+        "choices": [
+            "some thing get hard-wired",
+            "i do not think",
+            "it come at expense",
+            "it go"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "d4ee85a30609ca0253a1a284bea93700",
+        "ctx": "you look good",
+        "relation": "Precedence",
+        "choices": [
+            "the aggies drop to oklahoma",
+            "that be",
+            "you always look good to i",
+            "you go out"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "c11ed44ced55e4293fd7778b073a29fb",
+        "ctx": "what be you do",
+        "relation": "Precedence",
+        "choices": [
+            "she would beat",
+            "what be you do",
+            "we pour the gin",
+            "i be go home"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "84af09c00ae7b5acd05054dae9c9546f",
+        "ctx": "i will tell you one thing",
+        "relation": "Result",
+        "choices": [
+            "we have get a dead marine with skill",
+            "we can get",
+            "they cut",
+            "you ask i"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "0bfbbbba2b9f64ebee1a44bce5c7861d",
+        "ctx": "you make sure",
+        "relation": "Condition",
+        "choices": [
+            "he win",
+            "anything should happen to i",
+            "you be gon na use a gun",
+            "you be uncomfortable"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "7d935103979a34ac9bcaa585e2383ee2",
+        "ctx": "he owe i money",
+        "relation": "Result",
+        "choices": [
+            "sam borrow money from you",
+            "he have any",
+            "i check",
+            "i could catch he"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "c17cb1b4419144421c4fc7e284c80cbd",
+        "ctx": "you look so beautiful",
+        "relation": "Contrast",
+        "choices": [
+            "it sting so bad",
+            "^ please ^",
+            "you be stand in way",
+            "my niece here do not know"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "5ac28913f51b403b466f9b36c233489e",
+        "ctx": "ta do it yourself",
+        "relation": "Condition",
+        "choices": [
+            "you wan na get anything do",
+            "you want power",
+            "you want something do",
+            "you wan na do anything nowadays"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "b75fa64e6ad7e59e56060fb4150e8b6d",
+        "ctx": "will you give i a kiss",
+        "relation": "Condition",
+        "choices": [
+            "what it be",
+            "i fill you basket",
+            "i tell you",
+            "i do"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "d146cdcc569fc492d3d41a4d108d8ba2",
+        "ctx": "it feel so good",
+        "relation": "Result",
+        "choices": [
+            "he like it",
+            "this be cool off",
+            "he do it",
+            "i hope"
+        ],
+        "answer": 2
+    },
+    {
+        "qid": "d0f2a59fc22f1eb17ec287b62810708e",
+        "ctx": "it look bad",
+        "relation": "Precedence",
+        "choices": [
+            "we will get in touch",
+            "it be true",
+            "you realize",
+            "we know"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "8985e6715018870c9149ab1611d2da13",
+        "ctx": "i give you a tip",
+        "relation": "Condition",
+        "choices": [
+            "you insist",
+            "you deserve one",
+            "what he find out",
+            "i feel"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "3fd0eafedcedd564bf2f13c428ca46b0",
+        "ctx": "i get sick",
+        "relation": "Condition",
+        "choices": [
+            "they ask",
+            "i really have to go",
+            "anything happen to i again",
+            "i do not behave"
+        ],
+        "answer": 1
+    },
+    {
+        "qid": "e460d9642249385b148b4213c464b7e0",
+        "ctx": "he try to kill himself",
+        "relation": "Result",
+        "choices": [
+            "it be a foregone conclusion",
+            "i decide",
+            "we know",
+            "what happen"
+        ],
+        "answer": 4
+    },
+    {
+        "qid": "8dc1e4b2def69d4e01be0aae94be121f",
+        "ctx": "you look wonderful",
+        "relation": "Contrast",
+        "choices": [
+            "you look gorgeous",
+            "you be always so chic",
+            "you always do",
+            "you will allow i"
+        ],
+        "answer": 3
+    },
+    {
+        "qid": "4b19f9ce43e248af668edbf813988b5b",
+        "ctx": "i will tell you how",
+        "relation": "Contrast",
+        "choices": [
+            "it must stay confidential",
+            "now i be wiser",
+            "you must give up the melon",
+            "it must be we secret"
+        ],
+        "answer": 4
+    }
+]
